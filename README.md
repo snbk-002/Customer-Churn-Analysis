@@ -30,9 +30,9 @@ Churn is a key driver for EBITDA margin. a churned customer provides less revenu
 
 ->Python Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn
 
-->Visualization Tools: Matplotlib, Seaborn
-
 ->Machine Learning Framework: Scikit-learn
+
+->Visualization Tools: Matplotlib, Seaborn, Power BI
 
 ### Project Highlights:
 
